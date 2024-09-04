@@ -1,0 +1,1 @@
+Includes web, system and network recon when you engage with the target directly to collect information.
