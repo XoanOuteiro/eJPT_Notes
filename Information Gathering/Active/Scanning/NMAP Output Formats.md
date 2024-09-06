@@ -9,7 +9,7 @@ We may also use -v,-vv,-vvv for verbosity and --reason
 To use xml metasploit output:
 
 ``` bash
-service start postgresql
+service postgresql start
 msfconsole
 workspace -a pentest_1
 db_import file.xml
