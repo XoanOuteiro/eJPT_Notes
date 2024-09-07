@@ -6,7 +6,7 @@
 
 We may also use -v,-vv,-vvv for verbosity and --reason
 
-To use xml metasploit output:
+To use xml [[Metasploit]] output:
 
 ``` bash
 service postgresql start

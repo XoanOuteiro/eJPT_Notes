@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "615d355df3170fad",
+        "id": "d7d124b299f649c1",
         "type": "tabs",
         "children": [
           {
-            "id": "eab14e6db3bb521e",
+            "id": "029664c101e717fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gathering/Active/Scanning/NMAP Output Formats.md",
+                "file": "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering/Active/Scanning/NMAP Output Formats.md",
+                "file": "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering/Active/Scanning/NMAP Output Formats.md",
+                "file": "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gathering/Active/Scanning/NMAP Output Formats.md"
+                "file": "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md"
               }
             }
           }
@@ -146,20 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab14e6db3bb521e",
+  "active": "029664c101e717fc",
   "lastOpenFiles": [
-    "Information Gathering/Active/Scanning/NMAP Scan optimization.md",
-    "Information Gathering/Active/Scanning/Evasion/Firewall Detection and IDS Evation.md",
-    "Information Gathering/Active/Scanning/Host Discovery Techniques.md",
-    "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
     "Information Gathering/Active/Scanning/NMAP Output Formats.md",
+    "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
+    "Information Gathering/Active/Scanning/Host Discovery Techniques.md",
+    "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md",
+    "Information Gathering/Active/Scanning/Ping Sweeps.md",
     "Information Gathering/Active/Scanning/NMAP Service version and OS detection.md",
     "Information Gathering/Active/Scanning/NMAP Scripting Engine.md",
     "Information Gathering/Active/Scanning/NMAP Port Scanning.md",
+    "Information Gathering/Active/DNS Zone Transfer.md",
+    "Information Gathering/Active/Network Mapping.md",
+    "Information Gathering/Active/Active Recon.md",
+    "Exploitation/Metasploit.md",
+    "Information Gathering/Active/Scanning/NMAP Scan optimization.md",
+    "Exploitation",
+    "Information Gathering/Active/Scanning/Evasion/Firewall Detection and IDS Evation.md",
     "Information Gathering/Active/Enumeration",
     "Information Gathering/Active/Scanning/Evasion",
-    "Information Gathering/Active/Scanning/Ping Sweeps.md",
-    "Information Gathering/Active/Network Mapping.md",
     "Networking Basics/Transport Layer.md",
     "Images/TCPvsUDP.png",
     "Images/TCP_Control_flags2.png",
@@ -175,9 +180,7 @@
     "Images/OSI_LAYERS.png",
     "Networking Basics",
     "Untitled.canvas",
-    "Information Gathering/Active/Active Recon.md",
     "Information Gathering/DNS Records.md",
-    "Information Gathering/Active/DNS Zone Transfer.md",
     "Information Gathering/Active/Scanning",
     "Information Gathering/Passive/DNS Recon.md",
     "Information Gathering/Passive/Web technologies at use.md",
@@ -185,7 +188,6 @@
     "Information Gathering/Passive/Subdomain enumeration.md",
     "Information Gathering/Passive/Passive Web Recon.md",
     "Information Gathering/Passive/Netcraft footprinting.md",
-    "Information Gathering/Passive/Leaked Password DB.md",
-    "Information Gathering/Passive/IP address from domain name.md"
+    "Information Gathering/Passive/Leaked Password DB.md"
   ]
 }
