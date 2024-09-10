@@ -1,3 +1,5 @@
+[[Active Recon]] with [[Metasploit]]
+
 A web server is software used to serve website data on the web.
 
 Web servers utilize HTTP to facilitate the communication between clients and the web server
@@ -24,3 +26,5 @@ auxiliary/scanner/http/http_login
 auxiliary/scanner/http/apache_userdir_enum
 
 We can use curl to access specific directories without a browser
+
+Consider reseeing the Apache Enum lab
