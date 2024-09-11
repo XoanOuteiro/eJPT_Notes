@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with MSF.md",
+                "file": "Exploitation/Windows/WebDAV Exploitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with MSF.md",
+                "file": "Exploitation/Windows/WebDAV Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with MSF.md",
+                "file": "Exploitation/Windows/WebDAV Exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with MSF.md"
+                "file": "Exploitation/Windows/WebDAV Exploitation.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "7c93df103019fa0c",
   "lastOpenFiles": [
+    "Exploitation/Windows",
+    "Information Gathering/Active/Enumeration/SMB Enumeration.md",
+    "Exploitation/Windows/WebDAV Exploitation.md",
+    "Information Gathering/Active/Enumeration/SSH Enumeration.md",
     "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with MSF.md",
     "Information Gathering/Active/Vulnerability Assesment/Windows Vulnerabilities.md",
     "Information Gathering/Active/Scanning/NMAP Scan optimization.md",
@@ -156,9 +160,7 @@
     "Information Gathering/Active/Vulnerability Assesment",
     "Information Gathering/Active/Untitled.md",
     "Information Gathering/Active/Enumeration/Web Server Enumeration.md",
-    "Information Gathering/Active/Enumeration/SSH Enumeration.md",
     "Information Gathering/Active/Enumeration/MySQL Enumeration.md",
-    "Information Gathering/Active/Enumeration/SMB Enumeration.md",
     "Information Gathering/Active/Enumeration/FTP Enumeration.md",
     "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md",
     "Information Gathering/Active/Scanning/NMAP Output Formats.md",
@@ -181,11 +183,9 @@
     "Images/TCP_Control_flags2.png",
     "Images/TCP_Control_Flags.png",
     "Images/TCP_Header_field.png",
-    "Networking Basics/Internet protocol.md",
     "Images/IPv4_header_3.png",
     "Images/IPv4_header_2.png",
     "Images/IPv4_headers.png",
-    "Networking Basics/Network Layer.md",
     "Images",
     "Images/OSI_LAYERS.png",
     "Networking Basics",
