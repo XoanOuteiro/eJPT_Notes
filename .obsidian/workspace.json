@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md",
+                "file": "Exploitation/Windows/EternalBlue Exploitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md",
+                "file": "Exploitation/Windows/EternalBlue Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md",
+                "file": "Exploitation/Windows/EternalBlue Exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md"
+                "file": "Exploitation/Windows/EternalBlue Exploitation.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "7c93df103019fa0c",
   "lastOpenFiles": [
+    "Exploitation/Windows/WebDAV Exploitation.md",
+    "Images/msf_autoblueshellcode.png",
+    "Exploitation/Windows/EternalBlue Exploitation.md",
     "Exploitation/Windows",
     "Information Gathering/Active/Enumeration/SMB Enumeration.md",
-    "Exploitation/Windows/WebDAV Exploitation.md",
     "Information Gathering/Active/Enumeration/SSH Enumeration.md",
     "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with MSF.md",
     "Information Gathering/Active/Vulnerability Assesment/Windows Vulnerabilities.md",
@@ -178,7 +180,6 @@
     "Information Gathering/Active/Scanning/Evasion/Firewall Detection and IDS Evation.md",
     "Information Gathering/Active/Enumeration",
     "Information Gathering/Active/Scanning/Evasion",
-    "Networking Basics/Transport Layer.md",
     "Images/TCPvsUDP.png",
     "Images/TCP_Control_flags2.png",
     "Images/TCP_Control_Flags.png",
