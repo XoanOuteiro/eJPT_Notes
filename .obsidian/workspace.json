@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploitation/Windows/EternalBlue Exploitation.md",
+                "file": "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploitation/Windows/EternalBlue Exploitation.md",
+                "file": "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploitation/Windows/EternalBlue Exploitation.md",
+                "file": "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploitation/Windows/EternalBlue Exploitation.md"
+                "file": "Information Gathering/Active/Scanning/NMAP Host Discovery.md"
               }
             }
           }
@@ -148,36 +148,38 @@
   },
   "active": "7c93df103019fa0c",
   "lastOpenFiles": [
+    "Information Gathering/Active/Scanning/Host Discovery Techniques.md",
+    "Exploitation/Linux/ShellShock Exploitation.md",
+    "Exploitation/Linux/Linux Exploitation.md",
+    "Exploitation/Windows/Pass-The-Hash Attacks.md",
+    "Exploitation/Linux",
+    "Exploitation/Untitled.md",
+    "Exploitation/Windows/BlueKeep exploitation.md",
+    "Exploitation/Windows/EternalBlue Exploitation.md",
+    "Information Gathering/Active/Scanning/NMAP Port Scanning.md",
+    "Information Gathering/Active/Scanning/NMAP Output Formats.md",
+    "Information Gathering/Active/Enumeration/SMB Enumeration.md",
+    "Information Gathering/Active/Enumeration/SMTP Enumeration.md",
+    "Information Gathering/Active/Enumeration/SSH Enumeration.md",
+    "Information Gathering/Active/Enumeration/Web Server Enumeration.md",
+    "Information Gathering/Active/Enumeration/FTP Enumeration.md",
+    "Information Gathering/Active/Enumeration/MySQL Enumeration.md",
     "Exploitation/Windows/WebDAV Exploitation.md",
     "Images/msf_autoblueshellcode.png",
-    "Exploitation/Windows/EternalBlue Exploitation.md",
     "Exploitation/Windows",
-    "Information Gathering/Active/Enumeration/SMB Enumeration.md",
-    "Information Gathering/Active/Enumeration/SSH Enumeration.md",
     "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with MSF.md",
     "Information Gathering/Active/Vulnerability Assesment/Windows Vulnerabilities.md",
     "Information Gathering/Active/Scanning/NMAP Scan optimization.md",
     "Images/windows_frequentlyexploited.png",
-    "Information Gathering/Active/Enumeration/SMTP Enumeration.md",
     "Information Gathering/Active/Vulnerability Assesment",
     "Information Gathering/Active/Untitled.md",
-    "Information Gathering/Active/Enumeration/Web Server Enumeration.md",
-    "Information Gathering/Active/Enumeration/MySQL Enumeration.md",
-    "Information Gathering/Active/Enumeration/FTP Enumeration.md",
     "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md",
-    "Information Gathering/Active/Scanning/NMAP Output Formats.md",
     "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
-    "Information Gathering/Active/Scanning/Host Discovery Techniques.md",
     "Information Gathering/Active/Scanning/Ping Sweeps.md",
     "Information Gathering/Active/Scanning/NMAP Service version and OS detection.md",
     "Information Gathering/Active/Scanning/NMAP Scripting Engine.md",
-    "Information Gathering/Active/Scanning/NMAP Port Scanning.md",
     "Information Gathering/Active/DNS Zone Transfer.md",
-    "Information Gathering/Active/Network Mapping.md",
-    "Information Gathering/Active/Active Recon.md",
-    "Exploitation/Metasploit.md",
     "Exploitation",
-    "Information Gathering/Active/Scanning/Evasion/Firewall Detection and IDS Evation.md",
     "Information Gathering/Active/Enumeration",
     "Information Gathering/Active/Scanning/Evasion",
     "Images/TCPvsUDP.png",
