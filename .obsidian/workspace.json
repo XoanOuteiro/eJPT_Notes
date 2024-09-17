@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "757dde89832332db",
+        "id": "3332f4a1c217d5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e68fe62ed3893b",
+            "id": "0934c044949a9592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Web App Scanning with WMAP.md",
+                "file": "Security Auditing/Auditing Lifcycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Web App Scanning with WMAP.md",
+                "file": "Security Auditing/Auditing Lifcycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Web App Scanning with WMAP.md",
+                "file": "Security Auditing/Auditing Lifcycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gathering/Active/Vulnerability Assesment/Web App Scanning with WMAP.md"
+                "file": "Security Auditing/Auditing Lifcycle.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8e68fe62ed3893b",
+  "active": "0934c044949a9592",
   "lastOpenFiles": [
-    "Information Gathering/Active/Scanning/Ping Sweeps.md",
+    "Security Auditing/Auditing Terminology.md",
+    "Security Auditing/Auditing Lifcycle.md",
+    "Images/auditing_terminology_2.png",
+    "Images/security_auditing_termilogy.png",
+    "Security Auditing/Secuity Auditing.md",
+    "Security Auditing",
     "Information Gathering/Active/Vulnerability Assesment/Web App Scanning with WMAP.md",
+    "Information Gathering/Active/Scanning/Ping Sweeps.md",
     "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with Nessus.md",
     "Exploitation/Linux/ShellShock Exploitation.md",
     "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
@@ -176,9 +182,6 @@
     "Information Gathering/Active/Scanning/NMAP Scan optimization.md",
     "Images/windows_frequentlyexploited.png",
     "Information Gathering/Active/Vulnerability Assesment",
-    "Information Gathering/Active/Untitled.md",
-    "Information Gathering/Active/Scanning/Port Scanning with Metasploit auxilliary modules.md",
-    "Information Gathering/Active/Scanning/NMAP Service version and OS detection.md",
     "Exploitation",
     "Information Gathering/Active/Enumeration",
     "Information Gathering/Active/Scanning/Evasion",
@@ -188,9 +191,7 @@
     "Images/TCP_Header_field.png",
     "Images/IPv4_header_3.png",
     "Images/IPv4_header_2.png",
-    "Images/IPv4_headers.png",
     "Images",
-    "Images/OSI_LAYERS.png",
     "Networking Basics",
     "Untitled.canvas",
     "Information Gathering/Active/Scanning"
