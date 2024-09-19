@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md",
+                "file": "Exploitation/Windows/SMB Exploitation with PsExec.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md",
+                "file": "Exploitation/Windows/SMB Exploitation with PsExec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md",
+                "file": "Exploitation/Windows/SMB Exploitation with PsExec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploitation/Windows/WebDAV Exploitation.md"
+                "file": "Exploitation/Windows/SMB Exploitation with PsExec.md"
               }
             }
           }
@@ -148,17 +148,18 @@
   },
   "active": "5faae2dfe7d0e379",
   "lastOpenFiles": [
+    "Exploitation/Windows/WebDAV Exploitation.md",
+    "Exploitation/Windows/BlueKeep exploitation.md",
+    "Exploitation/Windows/SMB Exploitation with PsExec.md",
     "Information Gathering/Active/Enumeration/FTP Enumeration.md",
+    "Exploitation/Host and Network Pentesting/Overview of Inherent Windows Vulns.md",
     "Information Gathering/Active/Enumeration/MySQL Enumeration.md",
     "Information Gathering/Active/Enumeration/SMB Enumeration.md",
-    "Exploitation/Windows/WebDAV Exploitation.md",
     "Exploitation/Windows/EternalBlue Exploitation.md",
     "Exploitation/Linux/ShellShock Exploitation.md",
     "Exploitation/Linux/Linux Exploitation.md",
-    "Exploitation/Host and Network Pentesting/Overview of Inherent Windows Vulns.md",
     "Images/common_windows_services.png",
     "Exploitation/Windows/Pass-The-Hash Attacks.md",
-    "Exploitation/Windows/BlueKeep exploitation.md",
     "Exploitation/Host and Network Pentesting",
     "Security Auditing/Governance Risk and Compliance.md",
     "Security Auditing/Common Standards Frameworks and Guidelines.md",
@@ -182,7 +183,6 @@
     "Exploitation/Untitled.md",
     "Information Gathering/Active/Scanning/NMAP Port Scanning.md",
     "Information Gathering/Active/Scanning/NMAP Output Formats.md",
-    "Information Gathering/Active/Enumeration/SMTP Enumeration.md",
     "Images/msf_autoblueshellcode.png",
     "Exploitation/Windows",
     "Images/windows_frequentlyexploited.png",
