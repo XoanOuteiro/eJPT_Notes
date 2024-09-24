@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dcbea8022b4f0322",
+        "id": "76ea9513ee2604be",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c8803ef25d443a",
+            "id": "4e315bf6ea95648b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Information Gathering/Active/Enumeration/FTP Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e5b8fa5faf92d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploits.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Privilege Escalation/Windows/Windows Kernel Exploits.md"
+              }
             }
           }
         ]
@@ -138,17 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5c8803ef25d443a",
+  "active": "40df8eca397c658a",
   "lastOpenFiles": [
-    "Exploitation/Windows/WebDAV Exploitation.md",
-    "Exploitation/Windows/SMB Exploitation with PsExec.md",
+    "Privilege Escalation/Windows",
+    "Privilege Escalation/Privilege Escalation.md",
+    "Privilege Escalation/Windows/Windows Kernel Exploits.md",
+    "Information Gathering/Active/Enumeration/FTP Enumeration.md",
+    "Privilege Escalation",
     "Exploitation/Windows/Exploiting WinRM.md",
     "Exploitation/Windows/Pass-The-Hash Attacks.md",
     "Exploitation/Windows/BlueKeep exploitation.md",
+    "Exploitation/Windows/EternalBlue Exploitation.md",
+    "Exploitation/Windows/WebDAV Exploitation.md",
+    "Exploitation/Windows/SMB Exploitation with PsExec.md",
     "Exploitation/Windows/Exploiting RDP.md",
     "Exploitation/Windows/Exploiting BlueKeep.md",
-    "Exploitation/Windows/EternalBlue Exploitation.md",
-    "Information Gathering/Active/Enumeration/FTP Enumeration.md",
     "Exploitation/Host and Network Pentesting/Overview of Inherent Windows Vulns.md",
     "Information Gathering/Active/Enumeration/MySQL Enumeration.md",
     "Information Gathering/Active/Enumeration/SMB Enumeration.md",
@@ -171,9 +196,6 @@
     "Security Auditing",
     "Information Gathering/Active/Vulnerability Assesment/Web App Scanning with WMAP.md",
     "Information Gathering/Active/Scanning/Ping Sweeps.md",
-    "Information Gathering/Active/Vulnerability Assesment/Vulnerability Scanning with Nessus.md",
-    "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
-    "Information Gathering/Active/Scanning/Host Discovery Techniques.md",
     "Exploitation/Linux",
     "Images/msf_autoblueshellcode.png",
     "Exploitation/Windows",
@@ -185,7 +207,6 @@
     "Images/TCPvsUDP.png",
     "Images/TCP_Control_flags2.png",
     "Images",
-    "Networking Basics",
     "Untitled.canvas"
   ]
 }
