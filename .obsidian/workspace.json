@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "105fb4d509ba1ca9",
+        "id": "30dc7b5620203af6",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9aad9afa11a474",
+            "id": "298ace3edffc3f52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privilege Escalation/Windows/Access Token Impersonation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Windows/Access Token Impersonation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Windows/Access Token Impersonation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Privilege Escalation/Windows/Access Token Impersonation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,22 +138,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc9aad9afa11a474",
+  "active": "298ace3edffc3f52",
   "lastOpenFiles": [
-    "Privilege Escalation/Windows/Access Token Impersonation.md",
-    "Privilege Escalation/Windows/Bypassing UAC with UACMe.md",
-    "Privilege Escalation/Windows/Windows Kernel Exploits.md",
+    "Networking Basics/Internet protocol.md",
+    "Post Exploitation/Privilege Escalation/Windows/Access Token Impersonation.md",
+    "Post Exploitation/Privilege Escalation/Privilege Escalation.md",
+    "Post Exploitation/Post Exploitation.md",
+    "Exploitation/Windows/File System/Alternate Data Streams.md",
+    "Post Exploitation/Windows Credential Dumping",
+    "Post Exploitation",
+    "Exploitation/Windows/BlueKeep exploitation.md",
     "Exploitation/Windows/EternalBlue Exploitation.md",
     "Exploitation/Windows/Exploiting RDP.md",
-    "Information Gathering/Active/Enumeration/FTP Enumeration.md",
-    "Privilege Escalation/Windows",
-    "Privilege Escalation/Privilege Escalation.md",
-    "Privilege Escalation",
     "Exploitation/Windows/Exploiting WinRM.md",
-    "Exploitation/Windows/Pass-The-Hash Attacks.md",
-    "Exploitation/Windows/BlueKeep exploitation.md",
     "Exploitation/Windows/WebDAV Exploitation.md",
     "Exploitation/Windows/SMB Exploitation with PsExec.md",
+    "Exploitation/Windows/Pass-The-Hash Attacks.md",
+    "Exploitation/Windows/File System",
+    "Post Exploitation/Privilege Escalation/Windows/Bypassing UAC with UACMe.md",
+    "Post Exploitation/Privilege Escalation/Windows/Windows Kernel Exploits.md",
+    "Information Gathering/Active/Enumeration/FTP Enumeration.md",
+    "Post Exploitation/Privilege Escalation/Windows",
+    "Post Exploitation/Privilege Escalation",
     "Exploitation/Windows/Exploiting BlueKeep.md",
     "Exploitation/Host and Network Pentesting/Overview of Inherent Windows Vulns.md",
     "Information Gathering/Active/Enumeration/MySQL Enumeration.md",
@@ -175,23 +173,17 @@
     "Security Auditing/Types Of Audits.md",
     "Security Auditing/Secuity Auditing.md",
     "Security Auditing/Auditing Terminology.md",
-    "Security Auditing/Auditing Lifcycle.md",
-    "Security Auditing/Auditing & Pentesting.md",
     "Images/auditing_v_pentesting.png",
     "Images/audits_2.png",
     "Images/types_of_audits.png",
     "Images/auditing_terminology_2.png",
     "Images/security_auditing_termilogy.png",
     "Security Auditing",
-    "Information Gathering/Active/Vulnerability Assesment/Web App Scanning with WMAP.md",
     "Exploitation/Linux",
     "Images/msf_autoblueshellcode.png",
     "Exploitation/Windows",
     "Images/windows_frequentlyexploited.png",
     "Information Gathering/Active/Vulnerability Assesment",
-    "Exploitation",
-    "Information Gathering/Active/Enumeration",
-    "Information Gathering/Active/Scanning/Evasion",
     "Images/TCPvsUDP.png",
     "Images/TCP_Control_flags2.png",
     "Untitled.canvas"
