@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "30dc7b5620203af6",
+        "id": "26a3279ba815aaf9",
         "type": "tabs",
         "children": [
           {
-            "id": "298ace3edffc3f52",
+            "id": "56bfdcd90de30bf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Post Exploitation/Windows Credential Dumping/Dumping Hashes with Mimikatz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post Exploitation/Windows Credential Dumping/Dumping Hashes with Mimikatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post Exploitation/Windows Credential Dumping/Dumping Hashes with Mimikatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Post Exploitation/Windows Credential Dumping/Dumping Hashes with Mimikatz.md"
+              }
             }
           }
         ]
@@ -138,8 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "298ace3edffc3f52",
+  "active": "56bfdcd90de30bf0",
   "lastOpenFiles": [
+    "Post Exploitation/Windows Credential Dumping/SAM (Security Accounts Manager).md",
+    "Post Exploitation/Windows Credential Dumping/Searching for passwords in configuration files.md",
+    "Post Exploitation/Windows Credential Dumping/Windows Password Hashes.md",
+    "Exploitation/Windows/Pass-The-Hash Attacks.md",
+    "Post Exploitation/Windows Credential Dumping/Dumping Hashes with Mimikatz.md",
+    "Exploitation/Metasploit.md",
+    "Information Gathering/Active/Scanning/NMAP Host Discovery.md",
+    "Information Gathering/Active/Scanning/Host Discovery Techniques.md",
     "Networking Basics/Internet protocol.md",
     "Post Exploitation/Privilege Escalation/Windows/Access Token Impersonation.md",
     "Post Exploitation/Privilege Escalation/Privilege Escalation.md",
@@ -153,7 +169,6 @@
     "Exploitation/Windows/Exploiting WinRM.md",
     "Exploitation/Windows/WebDAV Exploitation.md",
     "Exploitation/Windows/SMB Exploitation with PsExec.md",
-    "Exploitation/Windows/Pass-The-Hash Attacks.md",
     "Exploitation/Windows/File System",
     "Post Exploitation/Privilege Escalation/Windows/Bypassing UAC with UACMe.md",
     "Post Exploitation/Privilege Escalation/Windows/Windows Kernel Exploits.md",
@@ -164,15 +179,8 @@
     "Exploitation/Host and Network Pentesting/Overview of Inherent Windows Vulns.md",
     "Information Gathering/Active/Enumeration/MySQL Enumeration.md",
     "Information Gathering/Active/Enumeration/SMB Enumeration.md",
-    "Exploitation/Linux/ShellShock Exploitation.md",
-    "Exploitation/Linux/Linux Exploitation.md",
     "Images/common_windows_services.png",
     "Exploitation/Host and Network Pentesting",
-    "Security Auditing/Governance Risk and Compliance.md",
-    "Security Auditing/Common Standards Frameworks and Guidelines.md",
-    "Security Auditing/Types Of Audits.md",
-    "Security Auditing/Secuity Auditing.md",
-    "Security Auditing/Auditing Terminology.md",
     "Images/auditing_v_pentesting.png",
     "Images/audits_2.png",
     "Images/types_of_audits.png",
